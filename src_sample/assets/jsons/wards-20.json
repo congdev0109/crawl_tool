@@ -1,0 +1,327 @@
+[
+    {
+        "ward_code": "05977",
+        "name": "Phường Đông Kinh",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "05983",
+        "name": "Phường Lương Văn Tri",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "05986",
+        "name": "Phường Tam Thanh",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06001",
+        "name": "Xã Đoàn Kết",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06004",
+        "name": "Xã Quốc Khánh",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06019",
+        "name": "Xã Tân Tiến",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06037",
+        "name": "Xã Kháng Chiến",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06040",
+        "name": "Xã Thất Khê",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06046",
+        "name": "Xã Tràng Định",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06058",
+        "name": "Xã Quốc Việt",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06073",
+        "name": "Xã Hoa Thám",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06076",
+        "name": "Xã Quý Hòa",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06079",
+        "name": "Xã Hồng Phong",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06085",
+        "name": "Xã Thiện Hòa",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06091",
+        "name": "Xã Thiện Thuật",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06103",
+        "name": "Xã Thiện Long",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06112",
+        "name": "Xã Bình Gia",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06115",
+        "name": "Xã Tân Văn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06124",
+        "name": "Xã Na Sầm",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06148",
+        "name": "Xã Thụy Hùng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06151",
+        "name": "Xã Hội Hoan",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06154",
+        "name": "Xã Văn Lãng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06172",
+        "name": "Xã Hoàng Văn Thụ",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06184",
+        "name": "Xã Đồng Đăng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06187",
+        "name": "Phường Kỳ Lừa",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06196",
+        "name": "Xã Ba Sơn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06211",
+        "name": "Xã Cao Lộc",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06220",
+        "name": "Xã Công Sơn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06253",
+        "name": "Xã Văn Quan",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06280",
+        "name": "Xã Điềm He",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06286",
+        "name": "Xã Khánh Khê",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06298",
+        "name": "Xã Yên Phúc",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06313",
+        "name": "Xã Tri Lễ",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06316",
+        "name": "Xã Tân Đoàn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06325",
+        "name": "Xã Bắc Sơn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06337",
+        "name": "Xã Tân Tri",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06349",
+        "name": "Xã Hưng Vũ",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06364",
+        "name": "Xã Vũ Lễ",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06367",
+        "name": "Xã Vũ Lăng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06376",
+        "name": "Xã Nhất Hòa",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06385",
+        "name": "Xã Hữu Lũng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06391",
+        "name": "Xã Yên Bình",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06400",
+        "name": "Xã Hữu Liên",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06415",
+        "name": "Xã Vân Nham",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06427",
+        "name": "Xã Cai Kinh",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06436",
+        "name": "Xã Thiện Tân",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06445",
+        "name": "Xã Tân Thành",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06457",
+        "name": "Xã Tuấn Sơn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06463",
+        "name": "Xã Chi Lăng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06475",
+        "name": "Xã Bằng Mạc",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06481",
+        "name": "Xã Chiến Thắng",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06496",
+        "name": "Xã Nhân Lý",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06505",
+        "name": "Xã Vạn Linh",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06517",
+        "name": "Xã Quan Sơn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06526",
+        "name": "Xã Na Dương",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06529",
+        "name": "Xã Lộc Bình",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06541",
+        "name": "Xã Mẫu Sơn",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06565",
+        "name": "Xã Khuất Xá",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06577",
+        "name": "Xã Thống Nhất",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06601",
+        "name": "Xã Lợi Bác",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06607",
+        "name": "Xã Xuân Dương",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06613",
+        "name": "Xã Đình Lập",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06616",
+        "name": "Xã Thái Bình",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06625",
+        "name": "Xã Kiên Mộc",
+        "province_code": "20"
+    },
+    {
+        "ward_code": "06637",
+        "name": "Xã Châu Sơn",
+        "province_code": "20"
+    }
+]

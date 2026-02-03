@@ -1,0 +1,282 @@
+[
+    {
+        "ward_code": "01273",
+        "name": "Phường Thục Phán",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01279",
+        "name": "Phường Nùng Trí Cao",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01288",
+        "name": "Phường Tân Giang",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01290",
+        "name": "Xã Bảo Lâm",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01294",
+        "name": "Xã Lý Bôn",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01297",
+        "name": "Xã Nam Quang",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01304",
+        "name": "Xã Quảng Lâm",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01318",
+        "name": "Xã Yên Thổ",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01321",
+        "name": "Xã Bảo Lạc",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01324",
+        "name": "Xã Cốc Pàng",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01327",
+        "name": "Xã Cô Ba",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01336",
+        "name": "Xã Khánh Xuân",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01339",
+        "name": "Xã Xuân Trường",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01351",
+        "name": "Xã Hưng Đạo",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01354",
+        "name": "Xã Huy Giáp",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01360",
+        "name": "Xã Sơn Lộ",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01363",
+        "name": "Xã Thông Nông",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01366",
+        "name": "Xã Cần Yên",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01387",
+        "name": "Xã Thanh Long",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01392",
+        "name": "Xã Trường Hà",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01393",
+        "name": "Xã Lũng Nặm",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01414",
+        "name": "Xã Tổng Cọt",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01438",
+        "name": "Xã Hà Quảng",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01447",
+        "name": "Xã Trà Lĩnh",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01456",
+        "name": "Xã Quang Hán",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01465",
+        "name": "Xã Quang Trung",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01477",
+        "name": "Xã Trùng Khánh",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01489",
+        "name": "Xã Đình Phong",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01501",
+        "name": "Xã Đàm Thủy",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01525",
+        "name": "Xã Đoài Dương",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01537",
+        "name": "Xã Lý Quốc",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01552",
+        "name": "Xã Quang Long",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01558",
+        "name": "Xã Hạ Lang",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01561",
+        "name": "Xã Vinh Quý",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01576",
+        "name": "Xã Quảng Uyên",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01594",
+        "name": "Xã Độc Lập",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01618",
+        "name": "Xã Hạnh Phúc",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01636",
+        "name": "Xã Bế Văn Đàn",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01648",
+        "name": "Xã Phục Hòa",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01654",
+        "name": "Xã Hòa An",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01660",
+        "name": "Xã Nam Tuấn",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01699",
+        "name": "Xã Nguyễn Huệ",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01708",
+        "name": "Xã Bạch Đằng",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01726",
+        "name": "Xã Nguyên Bình",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01729",
+        "name": "Xã Tĩnh Túc",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01738",
+        "name": "Xã Ca Thành",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01747",
+        "name": "Xã Minh Tâm",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01768",
+        "name": "Xã Phan Thanh",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01774",
+        "name": "Xã Tam Kim",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01777",
+        "name": "Xã Thành Công",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01786",
+        "name": "Xã Đông Khê",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01789",
+        "name": "Xã Canh Tân",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01792",
+        "name": "Xã Kim Đồng",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01795",
+        "name": "Xã Minh Khai",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01807",
+        "name": "Xã Thạch An",
+        "province_code": "04"
+    },
+    {
+        "ward_code": "01822",
+        "name": "Xã Đức Long",
+        "province_code": "04"
+    }
+]

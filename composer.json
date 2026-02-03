@@ -1,0 +1,22 @@
+{
+  "name": "mytool/crawler",
+  "description": "Asset crawler for specific structure",
+  "type": "project",
+  "require": {
+    "guzzlehttp/guzzle": "^7.10",
+    "symfony/dom-crawler": "^6.4",
+    "symfony/css-selector": "^6.4",
+    "fabpot/goutte": "^4.0"
+  },
+  "authors": [
+    {
+      "name": "Antigravity",
+      "email": "antigravity@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CrawlTool\\": "src/"
+    }
+  }
+}

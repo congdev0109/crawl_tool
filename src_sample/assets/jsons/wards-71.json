@@ -1,0 +1,370 @@
+[
+    {
+        "id": 15642,
+        "name": "Xã Kha Sơn"
+    },
+    {
+        "id": 15641,
+        "name": "Xã Điềm Thụy"
+    },
+    {
+        "id": 15640,
+        "name": "Xã Tân Thành"
+    },
+    {
+        "id": 15639,
+        "name": "Xã Tân Khánh"
+    },
+    {
+        "id": 15638,
+        "name": "Xã Phú Bình"
+    },
+    {
+        "id": 15637,
+        "name": "Phường Trung Thành"
+    },
+    {
+        "id": 15636,
+        "name": "Phường Vạn Xuân"
+    },
+    {
+        "id": 15635,
+        "name": "Xã Thành Công"
+    },
+    {
+        "id": 15634,
+        "name": "Phường Phổ Yên"
+    },
+    {
+        "id": 15633,
+        "name": "Phường Phúc Thuận"
+    },
+    {
+        "id": 15632,
+        "name": "Xã Quân Chu"
+    },
+    {
+        "id": 15631,
+        "name": "Xã Vạn Phú"
+    },
+    {
+        "id": 15630,
+        "name": "Xã Đại Từ"
+    },
+    {
+        "id": 15629,
+        "name": "Xã La Bằng"
+    },
+    {
+        "id": 15628,
+        "name": "Xã An Khánh"
+    },
+    {
+        "id": 15627,
+        "name": "Xã Phú Thịnh"
+    },
+    {
+        "id": 15626,
+        "name": "Xã Phú Lạc"
+    },
+    {
+        "id": 15625,
+        "name": "Xã Đức Lương"
+    },
+    {
+        "id": 15624,
+        "name": "Xã Phú Xuyên"
+    },
+    {
+        "id": 15623,
+        "name": "Xã Dân Tiến"
+    },
+    {
+        "id": 15622,
+        "name": "Xã Tràng Xá"
+    },
+    {
+        "id": 15621,
+        "name": "Xã La Hiên"
+    },
+    {
+        "id": 15620,
+        "name": "Xã Thần Sa"
+    },
+    {
+        "id": 15619,
+        "name": "Xã Nghinh Tường"
+    },
+    {
+        "id": 15618,
+        "name": "Xã Sảng Mộc"
+    },
+    {
+        "id": 15617,
+        "name": "Xã Võ Nhai"
+    },
+    {
+        "id": 15616,
+        "name": "Phường Linh Sơn"
+    },
+    {
+        "id": 15615,
+        "name": "Xã Nam Hòa"
+    },
+    {
+        "id": 15614,
+        "name": "Xã Đồng Hỷ"
+    },
+    {
+        "id": 15613,
+        "name": "Xã Văn Hán"
+    },
+    {
+        "id": 15612,
+        "name": "Xã Quang Sơn"
+    },
+    {
+        "id": 15611,
+        "name": "Xã Văn Lăng"
+    },
+    {
+        "id": 15610,
+        "name": "Xã Trại Cau"
+    },
+    {
+        "id": 15609,
+        "name": "Xã Vô Tranh"
+    },
+    {
+        "id": 15608,
+        "name": "Xã Hợp Thành"
+    },
+    {
+        "id": 15607,
+        "name": "Xã Yên Trạch"
+    },
+    {
+        "id": 15606,
+        "name": "Xã Phú Lương"
+    },
+    {
+        "id": 15605,
+        "name": "Xã Bình Thành"
+    },
+    {
+        "id": 15604,
+        "name": "Xã Phú Đình"
+    },
+    {
+        "id": 15603,
+        "name": "Xã Bình Yên"
+    },
+    {
+        "id": 15602,
+        "name": "Xã Trung Hội"
+    },
+    {
+        "id": 15601,
+        "name": "Xã Định Hóa"
+    },
+    {
+        "id": 15600,
+        "name": "Xã Phượng Tiến"
+    },
+    {
+        "id": 15599,
+        "name": "Xã Kim Phượng"
+    },
+    {
+        "id": 15598,
+        "name": "Xã Lam Vỹ"
+    },
+    {
+        "id": 15597,
+        "name": "Phường Bá Xuyên"
+    },
+    {
+        "id": 15596,
+        "name": "Phường Bách Quang"
+    },
+    {
+        "id": 15595,
+        "name": "Phường Sông Công"
+    },
+    {
+        "id": 15594,
+        "name": "Xã Tân Cương"
+    },
+    {
+        "id": 15593,
+        "name": "Phường Tích Lương"
+    },
+    {
+        "id": 15592,
+        "name": "Xã Đại Phúc"
+    },
+    {
+        "id": 15591,
+        "name": "Phường Quan Triều"
+    },
+    {
+        "id": 15590,
+        "name": "Phường Gia Sàng"
+    },
+    {
+        "id": 15589,
+        "name": "Phường Quyết Thắng"
+    },
+    {
+        "id": 15588,
+        "name": "Phường Phan Đình Phùng"
+    },
+    {
+        "id": 15587,
+        "name": "Xã Xuân Dương"
+    },
+    {
+        "id": 15586,
+        "name": "Xã Côn Minh"
+    },
+    {
+        "id": 15585,
+        "name": "Xã Trần Phú"
+    },
+    {
+        "id": 15584,
+        "name": "Xã Na Rì"
+    },
+    {
+        "id": 15583,
+        "name": "Xã Cường Lợi"
+    },
+    {
+        "id": 15582,
+        "name": "Xã Văn Lang"
+    },
+    {
+        "id": 15581,
+        "name": "Xã Yên Bình"
+    },
+    {
+        "id": 15580,
+        "name": "Xã Thanh Thịnh"
+    },
+    {
+        "id": 15579,
+        "name": "Xã Tân Kỳ"
+    },
+    {
+        "id": 15578,
+        "name": "Xã Thanh Mai"
+    },
+    {
+        "id": 15577,
+        "name": "Xã Chợ Mới"
+    },
+    {
+        "id": 15576,
+        "name": "Xã Yên Phong"
+    },
+    {
+        "id": 15575,
+        "name": "Xã Nghĩa Tá"
+    },
+    {
+        "id": 15574,
+        "name": "Xã Yên Thịnh"
+    },
+    {
+        "id": 15573,
+        "name": "Xã Quảng Bạch"
+    },
+    {
+        "id": 15572,
+        "name": "Xã Nam Cường"
+    },
+    {
+        "id": 15571,
+        "name": "Xã Chợ Đồn"
+    },
+    {
+        "id": 15570,
+        "name": "Xã Bạch Thông"
+    },
+    {
+        "id": 15569,
+        "name": "Xã Cẩm Giàng"
+    },
+    {
+        "id": 15568,
+        "name": "Xã Vĩnh Thông"
+    },
+    {
+        "id": 15567,
+        "name": "Xã Phủ Thông"
+    },
+    {
+        "id": 15566,
+        "name": "Xã Hiệp Lực"
+    },
+    {
+        "id": 15565,
+        "name": "Xã Thượng Quan"
+    },
+    {
+        "id": 15564,
+        "name": "Xã Ngân Sơn"
+    },
+    {
+        "id": 15563,
+        "name": "Xã Bằng Vân"
+    },
+    {
+        "id": 15562,
+        "name": "Xã Nà Phặc"
+    },
+    {
+        "id": 15561,
+        "name": "Xã Đồng Phúc"
+    },
+    {
+        "id": 15560,
+        "name": "Xã Thượng Minh"
+    },
+    {
+        "id": 15559,
+        "name": "Xã Chợ Rã"
+    },
+    {
+        "id": 15558,
+        "name": "Xã Ba Bể"
+    },
+    {
+        "id": 15557,
+        "name": "Xã Phúc Lộc"
+    },
+    {
+        "id": 15556,
+        "name": "Xã Nghiên Loan"
+    },
+    {
+        "id": 15555,
+        "name": "Xã Cao Minh"
+    },
+    {
+        "id": 15554,
+        "name": "Xã Bằng Thành"
+    },
+    {
+        "id": 15553,
+        "name": "Xã Phong Quang"
+    },
+    {
+        "id": 15552,
+        "name": "Phường Bắc Kạn"
+    },
+    {
+        "id": 15551,
+        "name": "Phường Đức Xuân"
+    }
+]

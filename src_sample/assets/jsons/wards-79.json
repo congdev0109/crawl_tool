@@ -1,0 +1,386 @@
+[
+    {
+        "id": 17813,
+        "name": "Xã An Lục Long"
+    },
+    {
+        "id": 17812,
+        "name": "Xã Thuận Mỹ"
+    },
+    {
+        "id": 17811,
+        "name": "Xã Vĩnh Công"
+    },
+    {
+        "id": 17810,
+        "name": "Xã Tầm Vu"
+    },
+    {
+        "id": 17809,
+        "name": "Xã Tân Tập"
+    },
+    {
+        "id": 17808,
+        "name": "Xã Phước Vĩnh Tây"
+    },
+    {
+        "id": 17807,
+        "name": "Xã Mỹ Lộc"
+    },
+    {
+        "id": 17806,
+        "name": "Xã Phước Lý"
+    },
+    {
+        "id": 17805,
+        "name": "Xã Cần Giuộc"
+    },
+    {
+        "id": 17804,
+        "name": "Xã Long Hựu"
+    },
+    {
+        "id": 17803,
+        "name": "Xã Tân Lân"
+    },
+    {
+        "id": 17802,
+        "name": "Xã Mỹ Lệ"
+    },
+    {
+        "id": 17801,
+        "name": "Xã Long Cang"
+    },
+    {
+        "id": 17800,
+        "name": "Xã Rạch Kiến"
+    },
+    {
+        "id": 17799,
+        "name": "Xã Cần Đước"
+    },
+    {
+        "id": 17798,
+        "name": "Xã Vàm Cỏ"
+    },
+    {
+        "id": 17797,
+        "name": "Xã Nhựt Tảo"
+    },
+    {
+        "id": 17796,
+        "name": "Xã Tân Trụ"
+    },
+    {
+        "id": 17795,
+        "name": "Xã Tân Long"
+    },
+    {
+        "id": 17794,
+        "name": "Xã Mỹ An"
+    },
+    {
+        "id": 17793,
+        "name": "Xã Mỹ Thạnh"
+    },
+    {
+        "id": 17792,
+        "name": "Xã Thủ Thừa"
+    },
+    {
+        "id": 17791,
+        "name": "Xã Mỹ Yên"
+    },
+    {
+        "id": 17790,
+        "name": "Xã Bình Đức"
+    },
+    {
+        "id": 17789,
+        "name": "Xã Lương Hòa"
+    },
+    {
+        "id": 17788,
+        "name": "Xã Thạnh Lợi"
+    },
+    {
+        "id": 17787,
+        "name": "Xã Bến Lức"
+    },
+    {
+        "id": 17786,
+        "name": "Xã Hòa Khánh"
+    },
+    {
+        "id": 17785,
+        "name": "Xã Mỹ Hạnh"
+    },
+    {
+        "id": 17784,
+        "name": "Xã Đức Lập"
+    },
+    {
+        "id": 17783,
+        "name": "Xã Hiệp Hòa"
+    },
+    {
+        "id": 17782,
+        "name": "Xã An Ninh"
+    },
+    {
+        "id": 17781,
+        "name": "Xã Đức Hòa"
+    },
+    {
+        "id": 17780,
+        "name": "Xã Hậu Nghĩa"
+    },
+    {
+        "id": 17779,
+        "name": "Xã Đức Huệ"
+    },
+    {
+        "id": 17778,
+        "name": "Xã Mỹ Quý"
+    },
+    {
+        "id": 17777,
+        "name": "Xã Đông Thành"
+    },
+    {
+        "id": 17776,
+        "name": "Xã Tân Tây"
+    },
+    {
+        "id": 17775,
+        "name": "Xã Thạnh Phước"
+    },
+    {
+        "id": 17774,
+        "name": "Xã Bình Thành"
+    },
+    {
+        "id": 17773,
+        "name": "Xã Thạnh Hóa"
+    },
+    {
+        "id": 17772,
+        "name": "Xã Nhơn Ninh"
+    },
+    {
+        "id": 17771,
+        "name": "Xã Hậu Thạnh"
+    },
+    {
+        "id": 17770,
+        "name": "Xã Nhơn Hòa Lập"
+    },
+    {
+        "id": 17769,
+        "name": "Xã Tân Thạnh"
+    },
+    {
+        "id": 17768,
+        "name": "Xã Mộc Hóa"
+    },
+    {
+        "id": 17767,
+        "name": "Xã Tuyên Thạnh"
+    },
+    {
+        "id": 17766,
+        "name": "Xã Bình Hòa"
+    },
+    {
+        "id": 17765,
+        "name": "Xã Bình Hiệp"
+    },
+    {
+        "id": 17764,
+        "name": "Phường Kiến Tường"
+    },
+    {
+        "id": 17763,
+        "name": "Xã Tuyên Bình"
+    },
+    {
+        "id": 17762,
+        "name": "Xã Khánh Hưng"
+    },
+    {
+        "id": 17761,
+        "name": "Xã Vĩnh Hưng"
+    },
+    {
+        "id": 17760,
+        "name": "Xã Vĩnh Châu"
+    },
+    {
+        "id": 17759,
+        "name": "Xã Vĩnh Thạnh"
+    },
+    {
+        "id": 17758,
+        "name": "Xã Hưng Điền"
+    },
+    {
+        "id": 17757,
+        "name": "Xã Tân Hưng"
+    },
+    {
+        "id": 17756,
+        "name": "Phường Khánh Hậu"
+    },
+    {
+        "id": 17755,
+        "name": "Phường Tân An"
+    },
+    {
+        "id": 17754,
+        "name": "Phường Long An"
+    },
+    {
+        "id": 17753,
+        "name": "Phường An Tịnh"
+    },
+    {
+        "id": 17752,
+        "name": "Xã Phước Chỉ"
+    },
+    {
+        "id": 17751,
+        "name": "Xã Hưng Thuận"
+    },
+    {
+        "id": 17750,
+        "name": "Phường Trảng Bàng"
+    },
+    {
+        "id": 17749,
+        "name": "Xã Long Thuận"
+    },
+    {
+        "id": 17748,
+        "name": "Xã Long Chữ"
+    },
+    {
+        "id": 17747,
+        "name": "Xã Bến Cầu"
+    },
+    {
+        "id": 17746,
+        "name": "Phường Gia Lộc"
+    },
+    {
+        "id": 17745,
+        "name": "Xã Truông Mít"
+    },
+    {
+        "id": 17744,
+        "name": "Xã Phước Thạnh"
+    },
+    {
+        "id": 17743,
+        "name": "Xã Thạnh Đức"
+    },
+    {
+        "id": 17742,
+        "name": "Phường Gò Dầu"
+    },
+    {
+        "id": 17741,
+        "name": "Phường Hòa Thành"
+    },
+    {
+        "id": 17740,
+        "name": "Phường Thanh Điền"
+    },
+    {
+        "id": 17739,
+        "name": "Phường Long Hoa"
+    },
+    {
+        "id": 17738,
+        "name": "Xã Ninh Điền"
+    },
+    {
+        "id": 17737,
+        "name": "Xã Hòa Hội"
+    },
+    {
+        "id": 17736,
+        "name": "Xã Phước Vinh"
+    },
+    {
+        "id": 17735,
+        "name": "Xã Hảo Đước"
+    },
+    {
+        "id": 17734,
+        "name": "Xã Châu Thành"
+    },
+    {
+        "id": 17733,
+        "name": "Xã Lộc Ninh"
+    },
+    {
+        "id": 17732,
+        "name": "Xã Cầu Khởi"
+    },
+    {
+        "id": 17731,
+        "name": "Phường Ninh Thạnh"
+    },
+    {
+        "id": 17730,
+        "name": "Xã Dương Minh Châu"
+    },
+    {
+        "id": 17729,
+        "name": "Xã Tân Phú"
+    },
+    {
+        "id": 17728,
+        "name": "Xã Tân Thành"
+    },
+    {
+        "id": 17727,
+        "name": "Xã Tân Hòa"
+    },
+    {
+        "id": 17726,
+        "name": "Xã Tân Hội"
+    },
+    {
+        "id": 17725,
+        "name": "Xã Tân Đông"
+    },
+    {
+        "id": 17724,
+        "name": "Xã Tân Châu"
+    },
+    {
+        "id": 17723,
+        "name": "Xã Trà Vong"
+    },
+    {
+        "id": 17722,
+        "name": "Xã Thạnh Bình"
+    },
+    {
+        "id": 17721,
+        "name": "Xã Tân Lập"
+    },
+    {
+        "id": 17720,
+        "name": "Xã Tân Biên"
+    },
+    {
+        "id": 17719,
+        "name": "Phường Bình Minh"
+    },
+    {
+        "id": 17718,
+        "name": "Phường Tân Ninh"
+    }
+]

@@ -1,0 +1,140 @@
+{
+    "citysCentral": [
+        {
+            "id": "01",
+            "name": "Thành phố Hà Nội"
+        },
+        {
+            "id": "04",
+            "name": "Cao Bằng"
+        },
+        {
+            "id": "08",
+            "name": "Tuyên Quang"
+        },
+        {
+            "id": "11",
+            "name": "Điện Biên"
+        },
+        {
+            "id": "12",
+            "name": "Lai Châu"
+        },
+        {
+            "id": "14",
+            "name": "Sơn La"
+        },
+        {
+            "id": "15",
+            "name": "Lào Cai"
+        },
+        {
+            "id": "19",
+            "name": "Thái Nguyên"
+        },
+        {
+            "id": "20",
+            "name": "Lạng Sơn"
+        },
+        {
+            "id": "22",
+            "name": "Quảng Ninh"
+        },
+        {
+            "id": "24",
+            "name": "Bắc Ninh"
+        },
+        {
+            "id": "25",
+            "name": "Phú Thọ"
+        },
+        {
+            "id": "31",
+            "name": "Thành phố Hải Phòng"
+        },
+        {
+            "id": "33",
+            "name": "Hưng Yên"
+        },
+        {
+            "id": "37",
+            "name": "Ninh Bình"
+        },
+        {
+            "id": "38",
+            "name": "Thanh Hóa"
+        },
+        {
+            "id": "40",
+            "name": "Nghệ An"
+        },
+        {
+            "id": "42",
+            "name": "Hà Tĩnh"
+        },
+        {
+            "id": "44",
+            "name": "Quảng Trị"
+        },
+        {
+            "id": "46",
+            "name": "Thành phố Huế"
+        },
+        {
+            "id": "48",
+            "name": "Thành phố Đà Nẵng"
+        },
+        {
+            "id": "51",
+            "name": "Quảng Ngãi"
+        },
+        {
+            "id": "52",
+            "name": "Gia Lai"
+        },
+        {
+            "id": "56",
+            "name": "Khánh Hòa"
+        },
+        {
+            "id": "66",
+            "name": "Đắk Lắk"
+        },
+        {
+            "id": "68",
+            "name": "Lâm Đồng"
+        },
+        {
+            "id": "75",
+            "name": "Đồng Nai"
+        },
+        {
+            "id": "79",
+            "name": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "id": "80",
+            "name": "Tây Ninh"
+        },
+        {
+            "id": "82",
+            "name": "Đồng Tháp"
+        },
+        {
+            "id": "86",
+            "name": "Vĩnh Long"
+        },
+        {
+            "id": "91",
+            "name": "An Giang"
+        },
+        {
+            "id": "92",
+            "name": "Thành phố Cần Thơ"
+        },
+        {
+            "id": "96",
+            "name": "Cà Mau"
+        }
+    ]
+}

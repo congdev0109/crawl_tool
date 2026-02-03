@@ -1,0 +1,666 @@
+[
+    {
+        "id": 16521,
+        "name": "Phường Nghi Sơn"
+    },
+    {
+        "id": 16520,
+        "name": "Phường Hải Bình"
+    },
+    {
+        "id": 16519,
+        "name": "Xã Trường Lâm"
+    },
+    {
+        "id": 16518,
+        "name": "Phường Trúc Lâm"
+    },
+    {
+        "id": 16517,
+        "name": "Phường Đào Duy Từ"
+    },
+    {
+        "id": 16516,
+        "name": "Phường Hải Lĩnh"
+    },
+    {
+        "id": 16515,
+        "name": "Phường Tân Dân"
+    },
+    {
+        "id": 16514,
+        "name": "Xã Các Sơn"
+    },
+    {
+        "id": 16513,
+        "name": "Phường Ngọc Sơn"
+    },
+    {
+        "id": 16512,
+        "name": "Phường Tĩnh Gia"
+    },
+    {
+        "id": 16511,
+        "name": "Xã Tiên Trang"
+    },
+    {
+        "id": 16510,
+        "name": "Xã Quảng Bình"
+    },
+    {
+        "id": 16509,
+        "name": "Xã Quảng Ninh"
+    },
+    {
+        "id": 16508,
+        "name": "Phường Sầm Sơn"
+    },
+    {
+        "id": 16507,
+        "name": "Phường Quảng Phú"
+    },
+    {
+        "id": 16506,
+        "name": "Phường Nam Sầm Sơn"
+    },
+    {
+        "id": 16505,
+        "name": "Xã Quảng Ngọc"
+    },
+    {
+        "id": 16504,
+        "name": "Xã Quảng Chính"
+    },
+    {
+        "id": 16503,
+        "name": "Xã Quảng Yên"
+    },
+    {
+        "id": 16502,
+        "name": "Xã Lưu Vệ"
+    },
+    {
+        "id": 16501,
+        "name": "Phường Đông Quang"
+    },
+    {
+        "id": 16500,
+        "name": "Phường Đông Sơn"
+    },
+    {
+        "id": 16499,
+        "name": "Xã Công Chính"
+    },
+    {
+        "id": 16498,
+        "name": "Xã Tượng Lĩnh"
+    },
+    {
+        "id": 16497,
+        "name": "Xã Trường Văn"
+    },
+    {
+        "id": 16496,
+        "name": "Xã Thăng Bình"
+    },
+    {
+        "id": 16495,
+        "name": "Xã Thắng Lợi"
+    },
+    {
+        "id": 16494,
+        "name": "Xã Trung Chính"
+    },
+    {
+        "id": 16493,
+        "name": "Xã Nông Cống"
+    },
+    {
+        "id": 16492,
+        "name": "Xã Thanh Kỳ"
+    },
+    {
+        "id": 16491,
+        "name": "Xã Yên Thọ"
+    },
+    {
+        "id": 16490,
+        "name": "Xã Xuân Thái"
+    },
+    {
+        "id": 16489,
+        "name": "Xã Mậu Lâm"
+    },
+    {
+        "id": 16488,
+        "name": "Xã Xuân Du"
+    },
+    {
+        "id": 16487,
+        "name": "Xã Như Thanh"
+    },
+    {
+        "id": 16486,
+        "name": "Xã Thượng Ninh"
+    },
+    {
+        "id": 16485,
+        "name": "Xã Thanh Quân"
+    },
+    {
+        "id": 16484,
+        "name": "Xã Thanh Phong"
+    },
+    {
+        "id": 16483,
+        "name": "Xã Hóa Quỳ"
+    },
+    {
+        "id": 16482,
+        "name": "Xã Xuân Bình"
+    },
+    {
+        "id": 16481,
+        "name": "Xã Như Xuân"
+    },
+    {
+        "id": 16480,
+        "name": "Xã Ba Đình"
+    },
+    {
+        "id": 16479,
+        "name": "Xã Nga An"
+    },
+    {
+        "id": 16478,
+        "name": "Xã Hồ Vương"
+    },
+    {
+        "id": 16477,
+        "name": "Xã Nga Thắng"
+    },
+    {
+        "id": 16476,
+        "name": "Xã Tân Tiến"
+    },
+    {
+        "id": 16475,
+        "name": "Xã Nga Sơn"
+    },
+    {
+        "id": 16474,
+        "name": "Xã Vạn Lộc"
+    },
+    {
+        "id": 16473,
+        "name": "Xã Hoa Lộc"
+    },
+    {
+        "id": 16472,
+        "name": "Xã Đông Thành"
+    },
+    {
+        "id": 16471,
+        "name": "Xã Triệu Lộc"
+    },
+    {
+        "id": 16470,
+        "name": "Xã Hậu Lộc"
+    },
+    {
+        "id": 16469,
+        "name": "Xã Hoằng Thanh"
+    },
+    {
+        "id": 16468,
+        "name": "Xã Hoằng Tiến"
+    },
+    {
+        "id": 16467,
+        "name": "Xã Hoằng Châu"
+    },
+    {
+        "id": 16466,
+        "name": "Xã Hoằng Lộc"
+    },
+    {
+        "id": 16465,
+        "name": "Phường Nguyệt Viên"
+    },
+    {
+        "id": 16464,
+        "name": "Xã Hoằng Sơn"
+    },
+    {
+        "id": 16463,
+        "name": "Xã Hoằng Phú"
+    },
+    {
+        "id": 16462,
+        "name": "Xã Hoằng Giang"
+    },
+    {
+        "id": 16461,
+        "name": "Xã Hoằng Hóa"
+    },
+    {
+        "id": 16460,
+        "name": "Phường Đông Tiến"
+    },
+    {
+        "id": 16459,
+        "name": "Xã Thiệu Trung"
+    },
+    {
+        "id": 16458,
+        "name": "Xã Thiệu Toán"
+    },
+    {
+        "id": 16457,
+        "name": "Xã Thiệu Quang"
+    },
+    {
+        "id": 16456,
+        "name": "Xã Thiệu Tiến"
+    },
+    {
+        "id": 16455,
+        "name": "Xã Thiệu Hóa"
+    },
+    {
+        "id": 16454,
+        "name": "Xã An Nông"
+    },
+    {
+        "id": 16453,
+        "name": "Xã Thọ Phú"
+    },
+    {
+        "id": 16452,
+        "name": "Xã Thọ Ngọc"
+    },
+    {
+        "id": 16451,
+        "name": "Xã Đồng Tiến"
+    },
+    {
+        "id": 16450,
+        "name": "Xã Tân Ninh"
+    },
+    {
+        "id": 16449,
+        "name": "Xã Hợp Tiến"
+    },
+    {
+        "id": 16448,
+        "name": "Xã Thọ Bình"
+    },
+    {
+        "id": 16447,
+        "name": "Xã Triệu Sơn"
+    },
+    {
+        "id": 16446,
+        "name": "Xã Tân Thành"
+    },
+    {
+        "id": 16445,
+        "name": "Xã Xuân Chinh"
+    },
+    {
+        "id": 16444,
+        "name": "Xã Thường Xuân"
+    },
+    {
+        "id": 16443,
+        "name": "Xã Thắng Lộc"
+    },
+    {
+        "id": 16442,
+        "name": "Xã Luận Thành"
+    },
+    {
+        "id": 16441,
+        "name": "Xã Lương Sơn"
+    },
+    {
+        "id": 16440,
+        "name": "Xã Vạn Xuân"
+    },
+    {
+        "id": 16439,
+        "name": "Xã Yên Nhân"
+    },
+    {
+        "id": 16438,
+        "name": "Xã Bát Mọt"
+    },
+    {
+        "id": 16437,
+        "name": "Xã Xuân Lập"
+    },
+    {
+        "id": 16436,
+        "name": "Xã Xuân Tín"
+    },
+    {
+        "id": 16435,
+        "name": "Xã Thọ Lập"
+    },
+    {
+        "id": 16434,
+        "name": "Xã Sao Vàng"
+    },
+    {
+        "id": 16433,
+        "name": "Xã Lam Sơn"
+    },
+    {
+        "id": 16432,
+        "name": "Xã Xuân Hòa"
+    },
+    {
+        "id": 16431,
+        "name": "Xã Thọ Long"
+    },
+    {
+        "id": 16430,
+        "name": "Xã Thọ Xuân"
+    },
+    {
+        "id": 16429,
+        "name": "Xã Yên Định"
+    },
+    {
+        "id": 16428,
+        "name": "Xã Định Tân"
+    },
+    {
+        "id": 16427,
+        "name": "Xã Định Hòa"
+    },
+    {
+        "id": 16426,
+        "name": "Xã Yên Ninh"
+    },
+    {
+        "id": 16425,
+        "name": "Xã Yên Trường"
+    },
+    {
+        "id": 16424,
+        "name": "Xã Quý Lộc"
+    },
+    {
+        "id": 16423,
+        "name": "Xã Yên Phú"
+    },
+    {
+        "id": 16422,
+        "name": "Xã Biện Thượng"
+    },
+    {
+        "id": 16421,
+        "name": "Xã Tây Đô"
+    },
+    {
+        "id": 16420,
+        "name": "Xã Vĩnh Lộc"
+    },
+    {
+        "id": 16419,
+        "name": "Xã Tống Sơn"
+    },
+    {
+        "id": 16418,
+        "name": "Xã Lĩnh Toại"
+    },
+    {
+        "id": 16417,
+        "name": "Xã Hoạt Giang"
+    },
+    {
+        "id": 16416,
+        "name": "Xã Hà Long"
+    },
+    {
+        "id": 16415,
+        "name": "Xã Hà Trung"
+    },
+    {
+        "id": 16414,
+        "name": "Xã Ngọc Trạo"
+    },
+    {
+        "id": 16413,
+        "name": "Xã Thành Vinh"
+    },
+    {
+        "id": 16412,
+        "name": "Xã Thạch Bình"
+    },
+    {
+        "id": 16411,
+        "name": "Xã Thạch Quảng"
+    },
+    {
+        "id": 16410,
+        "name": "Xã Vân Du"
+    },
+    {
+        "id": 16409,
+        "name": "Xã Kim Tân"
+    },
+    {
+        "id": 16408,
+        "name": "Xã Cẩm Tân"
+    },
+    {
+        "id": 16407,
+        "name": "Xã Cẩm Vân"
+    },
+    {
+        "id": 16406,
+        "name": "Xã Cẩm Tú"
+    },
+    {
+        "id": 16405,
+        "name": "Xã Cẩm Thạch"
+    },
+    {
+        "id": 16404,
+        "name": "Xã Cẩm Thủy"
+    },
+    {
+        "id": 16403,
+        "name": "Xã Minh Sơn"
+    },
+    {
+        "id": 16402,
+        "name": "Xã Kiên Thọ"
+    },
+    {
+        "id": 16401,
+        "name": "Xã Nguyệt Ấn"
+    },
+    {
+        "id": 16400,
+        "name": "Xã Ngọc Liên"
+    },
+    {
+        "id": 16399,
+        "name": "Xã Thạch Lập"
+    },
+    {
+        "id": 16398,
+        "name": "Xã Ngọc Lặc"
+    },
+    {
+        "id": 16397,
+        "name": "Xã Đồng Lương"
+    },
+    {
+        "id": 16396,
+        "name": "Xã Linh Sơn"
+    },
+    {
+        "id": 16395,
+        "name": "Xã Văn Phú"
+    },
+    {
+        "id": 16394,
+        "name": "Xã Giao An"
+    },
+    {
+        "id": 16393,
+        "name": "Xã Yên Thắng"
+    },
+    {
+        "id": 16392,
+        "name": "Xã Yên Khương"
+    },
+    {
+        "id": 16391,
+        "name": "Xã Mường Mìn"
+    },
+    {
+        "id": 16390,
+        "name": "Xã Sơn Điện"
+    },
+    {
+        "id": 16389,
+        "name": "Xã Tam Lư"
+    },
+    {
+        "id": 16388,
+        "name": "Xã Quan Sơn"
+    },
+    {
+        "id": 16387,
+        "name": "Xã Na Mèo"
+    },
+    {
+        "id": 16386,
+        "name": "Xã Sơn Thủy"
+    },
+    {
+        "id": 16385,
+        "name": "Xã Tam Thanh"
+    },
+    {
+        "id": 16384,
+        "name": "Xã Trung Hạ"
+    },
+    {
+        "id": 16383,
+        "name": "Xã Thiết Ống"
+    },
+    {
+        "id": 16382,
+        "name": "Xã Văn Nho"
+    },
+    {
+        "id": 16381,
+        "name": "Xã Cổ Lũng"
+    },
+    {
+        "id": 16380,
+        "name": "Xã Pù Luông"
+    },
+    {
+        "id": 16379,
+        "name": "Xã Quý Lương"
+    },
+    {
+        "id": 16378,
+        "name": "Xã Điền Lư"
+    },
+    {
+        "id": 16377,
+        "name": "Xã Điền Quang"
+    },
+    {
+        "id": 16376,
+        "name": "Xã Bá Thước"
+    },
+    {
+        "id": 16375,
+        "name": "Xã Thiên Phủ"
+    },
+    {
+        "id": 16374,
+        "name": "Xã Nam Xuân"
+    },
+    {
+        "id": 16373,
+        "name": "Xã Hiền Kiệt"
+    },
+    {
+        "id": 16372,
+        "name": "Xã Phú Xuân"
+    },
+    {
+        "id": 16371,
+        "name": "Xã Phú Lệ"
+    },
+    {
+        "id": 16370,
+        "name": "Xã Trung Sơn"
+    },
+    {
+        "id": 16369,
+        "name": "Xã Trung Thành"
+    },
+    {
+        "id": 16368,
+        "name": "Xã Hồi Xuân"
+    },
+    {
+        "id": 16367,
+        "name": "Xã Mường Chanh"
+    },
+    {
+        "id": 16366,
+        "name": "Xã Nhi Sơn"
+    },
+    {
+        "id": 16365,
+        "name": "Xã Pù Nhi"
+    },
+    {
+        "id": 16364,
+        "name": "Xã Quang Chiểu"
+    },
+    {
+        "id": 16363,
+        "name": "Xã Trung Lý"
+    },
+    {
+        "id": 16362,
+        "name": "Xã Mường Lý"
+    },
+    {
+        "id": 16361,
+        "name": "Xã Tam Chung"
+    },
+    {
+        "id": 16360,
+        "name": "Xã Mường Lát"
+    },
+    {
+        "id": 16359,
+        "name": "Phường Quang Trung"
+    },
+    {
+        "id": 16358,
+        "name": "Phường Bỉm Sơn"
+    },
+    {
+        "id": 16357,
+        "name": "Phường Hạc Thành"
+    },
+    {
+        "id": 16356,
+        "name": "Phường Hàm Rồng"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "id": 17330,
+        "name": "Xã Nam Ka"
+    },
+    {
+        "id": 17329,
+        "name": "Xã Krông Nô"
+    },
+    {
+        "id": 17328,
+        "name": "Xã Đắk Phơi"
+    },
+    {
+        "id": 17327,
+        "name": "Xã Đắk Liêng"
+    },
+    {
+        "id": 17326,
+        "name": "Xã Liên Sơn Lắk"
+    },
+    {
+        "id": 17325,
+        "name": "Xã Dur Kmăl"
+    },
+    {
+        "id": 17324,
+        "name": "Xã Dray Bhăng"
+    },
+    {
+        "id": 17323,
+        "name": "Xã Ea Na"
+    },
+    {
+        "id": 17322,
+        "name": "Xã Ea Ktur"
+    },
+    {
+        "id": 17321,
+        "name": "Xã Ea Ning"
+    },
+    {
+        "id": 17320,
+        "name": "Xã Krông Ana"
+    },
+    {
+        "id": 17319,
+        "name": "Xã Vụ Bổn"
+    },
+    {
+        "id": 17318,
+        "name": "Xã Tân Tiến"
+    },
+    {
+        "id": 17317,
+        "name": "Xã Ea Knuếc"
+    },
+    {
+        "id": 17316,
+        "name": "Xã Ea Phê"
+    },
+    {
+        "id": 17315,
+        "name": "Xã Ea Kly"
+    },
+    {
+        "id": 17314,
+        "name": "Xã Krông Pắc"
+    },
+    {
+        "id": 17313,
+        "name": "Xã Yang Mao"
+    },
+    {
+        "id": 17312,
+        "name": "Xã Cư Pui"
+    },
+    {
+        "id": 17311,
+        "name": "Xã Hòa Sơn"
+    },
+    {
+        "id": 17310,
+        "name": "Xã Dang Kang"
+    },
+    {
+        "id": 17309,
+        "name": "Xã Krông Bông"
+    },
+    {
+        "id": 17308,
+        "name": "Xã Ea Trang"
+    },
+    {
+        "id": 17307,
+        "name": "Xã Krông Á"
+    },
+    {
+        "id": 17306,
+        "name": "Xã Cư M’ta"
+    },
+    {
+        "id": 17305,
+        "name": "Xã Ea Riêng"
+    },
+    {
+        "id": 17304,
+        "name": "Xã Cư Prao"
+    },
+    {
+        "id": 17303,
+        "name": "Xã M’Drắk"
+    },
+    {
+        "id": 17302,
+        "name": "Xã Cư Yang"
+    },
+    {
+        "id": 17301,
+        "name": "Xã Ea Ô"
+    },
+    {
+        "id": 17300,
+        "name": "Xã Ea Păl"
+    },
+    {
+        "id": 17299,
+        "name": "Xã Ea Knốp"
+    },
+    {
+        "id": 17298,
+        "name": "Xã Ea Kar"
+    },
+    {
+        "id": 17297,
+        "name": "Xã Phú Xuân"
+    },
+    {
+        "id": 17296,
+        "name": "Xã Tam Giang"
+    },
+    {
+        "id": 17295,
+        "name": "Xã Dliê Ya"
+    },
+    {
+        "id": 17294,
+        "name": "Xã Krông Năng"
+    },
+    {
+        "id": 17293,
+        "name": "Phường Cư Bao"
+    },
+    {
+        "id": 17292,
+        "name": "Xã Ea Drông"
+    },
+    {
+        "id": 17291,
+        "name": "Xã Pơng Drang"
+    },
+    {
+        "id": 17290,
+        "name": "Xã Cư Pơng"
+    },
+    {
+        "id": 17289,
+        "name": "Xã Krông Búk"
+    },
+    {
+        "id": 17288,
+        "name": "Phường Buôn Hồ"
+    },
+    {
+        "id": 17287,
+        "name": "Xã Cuôr Đăng"
+    },
+    {
+        "id": 17286,
+        "name": "Xã Ea M’Droh"
+    },
+    {
+        "id": 17285,
+        "name": "Xã Cư M’gar"
+    },
+    {
+        "id": 17284,
+        "name": "Xã Ea Tul"
+    },
+    {
+        "id": 17283,
+        "name": "Xã Ea Kiết"
+    },
+    {
+        "id": 17282,
+        "name": "Xã Quảng Phú"
+    },
+    {
+        "id": 17281,
+        "name": "Xã Ea Nuôl"
+    },
+    {
+        "id": 17280,
+        "name": "Xã Ea Wer"
+    },
+    {
+        "id": 17279,
+        "name": "Xã Buôn Đôn"
+    },
+    {
+        "id": 17278,
+        "name": "Xã Ea Bung"
+    },
+    {
+        "id": 17277,
+        "name": "Xã Ia Rvê"
+    },
+    {
+        "id": 17276,
+        "name": "Xã Ea Rốk"
+    },
+    {
+        "id": 17275,
+        "name": "Xã Ia Lốp"
+    },
+    {
+        "id": 17274,
+        "name": "Xã Ea Súp"
+    },
+    {
+        "id": 17273,
+        "name": "Xã Ea Khăl"
+    },
+    {
+        "id": 17272,
+        "name": "Xã Ea Wy"
+    },
+    {
+        "id": 17271,
+        "name": "Xã Ea Hiao"
+    },
+    {
+        "id": 17270,
+        "name": "Xã Ea H’Leo"
+    },
+    {
+        "id": 17269,
+        "name": "Xã Ea Drăng"
+    },
+    {
+        "id": 17268,
+        "name": "Xã Hòa Phú"
+    },
+    {
+        "id": 17267,
+        "name": "Phường Ea Kao"
+    },
+    {
+        "id": 17266,
+        "name": "Phường Tân An"
+    },
+    {
+        "id": 17265,
+        "name": "Phường Thành Nhất"
+    },
+    {
+        "id": 17264,
+        "name": "Phường Buôn Ma Thuột"
+    },
+    {
+        "id": 17263,
+        "name": "Phường Tân Lập"
+    },
+    {
+        "id": 17262,
+        "name": "Xã Phú Hòa 1"
+    },
+    {
+        "id": 17261,
+        "name": "Xã Phú Hòa 2"
+    },
+    {
+        "id": 17260,
+        "name": "Xã Hòa Xuân"
+    },
+    {
+        "id": 17259,
+        "name": "Xã Hòa Mỹ"
+    },
+    {
+        "id": 17258,
+        "name": "Xã Hòa Thịnh"
+    },
+    {
+        "id": 17257,
+        "name": "Phường Hòa Hiệp"
+    },
+    {
+        "id": 17256,
+        "name": "Phường Đông Hòa"
+    },
+    {
+        "id": 17255,
+        "name": "Xã Tây Hòa"
+    },
+    {
+        "id": 17254,
+        "name": "Xã Sơn Thành"
+    },
+    {
+        "id": 17253,
+        "name": "Phường Phú Yên"
+    },
+    {
+        "id": 17252,
+        "name": "Xã Ea Ly"
+    },
+    {
+        "id": 17251,
+        "name": "Xã Ea Bá"
+    },
+    {
+        "id": 17250,
+        "name": "Xã Đức Bình"
+    },
+    {
+        "id": 17249,
+        "name": "Xã Sông Hinh"
+    },
+    {
+        "id": 17248,
+        "name": "Xã Suối Trai"
+    },
+    {
+        "id": 17247,
+        "name": "Xã Vân Hòa"
+    },
+    {
+        "id": 17246,
+        "name": "Xã Tây Sơn"
+    },
+    {
+        "id": 17245,
+        "name": "Xã Sơn Hòa"
+    },
+    {
+        "id": 17244,
+        "name": "Xã Tuy An Nam"
+    },
+    {
+        "id": 17243,
+        "name": "Xã Ô Loan"
+    },
+    {
+        "id": 17242,
+        "name": "Xã Tuy An Tây"
+    },
+    {
+        "id": 17241,
+        "name": "Xã Tuy An Đông"
+    },
+    {
+        "id": 17240,
+        "name": "Xã Tuy An Bắc"
+    },
+    {
+        "id": 17239,
+        "name": "Xã Xuân Phước"
+    },
+    {
+        "id": 17238,
+        "name": "Xã Phú Mỡ"
+    },
+    {
+        "id": 17237,
+        "name": "Xã Xuân Lãnh"
+    },
+    {
+        "id": 17236,
+        "name": "Xã Đồng Xuân"
+    },
+    {
+        "id": 17235,
+        "name": "Phường Xuân Đài"
+    },
+    {
+        "id": 17234,
+        "name": "Xã Xuân Thọ"
+    },
+    {
+        "id": 17233,
+        "name": "Xã Xuân Cảnh"
+    },
+    {
+        "id": 17232,
+        "name": "Xã Xuân Lộc"
+    },
+    {
+        "id": 17231,
+        "name": "Phường Sông Cầu"
+    },
+    {
+        "id": 17230,
+        "name": "Phường Bình Kiến"
+    },
+    {
+        "id": 17229,
+        "name": "Phường Tuy Hòa"
+    }
+]

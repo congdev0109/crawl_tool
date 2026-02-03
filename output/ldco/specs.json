@@ -1,0 +1,107 @@
+{
+    "gioi-thieu": {
+        "base": "static",
+        "nametype": "gioi-thieu",
+        "has_detail": false,
+        "thumb_size": "326x88x1",
+        "width": 326,
+        "height": 88,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": false,
+            "view": false,
+            "images": true,
+            "desc": false,
+            "content": false,
+            "content_cke": false,
+            "copy": true,
+            "copy_image": true,
+            "comment": false
+        }
+    },
+    "dich-vu": {
+        "base": "news",
+        "nametype": "dich-vu",
+        "has_detail": false,
+        "thumb_size": "386x440x1",
+        "width": 386,
+        "height": 440,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": true,
+            "view": true,
+            "images": true,
+            "desc": true,
+            "content": true,
+            "content_cke": true,
+            "copy": true,
+            "copy_image": true,
+            "comment": false
+        }
+    },
+    "du-an": {
+        "base": "product",
+        "nametype": "du-an",
+        "has_detail": false,
+        "thumb_size": "576x430x1",
+        "width": 576,
+        "height": 430,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": true,
+            "view": true,
+            "images": true,
+            "desc": true,
+            "content": true,
+            "content_cke": true,
+            "copy": true,
+            "copy_image": true,
+            "comment": false
+        }
+    },
+    "tin-tuc": {
+        "base": "news",
+        "nametype": "tin-tuc",
+        "has_detail": false,
+        "thumb_size": "326x88x1",
+        "width": 326,
+        "height": 88,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": true,
+            "view": true,
+            "images": true,
+            "desc": true,
+            "content": true,
+            "content_cke": true,
+            "copy": true,
+            "copy_image": true,
+            "comment": false
+        }
+    },
+    "lien-he": {
+        "base": "static",
+        "nametype": "lien-he",
+        "has_detail": false,
+        "thumb_size": "326x88x1",
+        "width": 326,
+        "height": 88,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": false,
+            "view": false,
+            "images": true,
+            "desc": false,
+            "content": false,
+            "content_cke": false,
+            "copy": true,
+            "copy_image": true,
+            "comment": false
+        }
+    }
+}

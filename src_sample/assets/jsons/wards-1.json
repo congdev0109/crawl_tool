@@ -1,0 +1,262 @@
+[
+    {
+        "id": 15707,
+        "name": "Xã Châu Sơn"
+    },
+    {
+        "id": 15706,
+        "name": "Xã Kiên Mộc"
+    },
+    {
+        "id": 15705,
+        "name": "Xã Thái Bình"
+    },
+    {
+        "id": 15704,
+        "name": "Xã Đình Lập"
+    },
+    {
+        "id": 15703,
+        "name": "Xã Xuân Dương"
+    },
+    {
+        "id": 15702,
+        "name": "Xã Lợi Bác"
+    },
+    {
+        "id": 15701,
+        "name": "Xã Thống Nhất"
+    },
+    {
+        "id": 15700,
+        "name": "Xã Khuất Xá"
+    },
+    {
+        "id": 15699,
+        "name": "Xã Mẫu Sơn"
+    },
+    {
+        "id": 15698,
+        "name": "Xã Lộc Bình"
+    },
+    {
+        "id": 15697,
+        "name": "Xã Na Dương"
+    },
+    {
+        "id": 15696,
+        "name": "Xã Quan Sơn"
+    },
+    {
+        "id": 15695,
+        "name": "Xã Vạn Linh"
+    },
+    {
+        "id": 15694,
+        "name": "Xã Nhân Lý"
+    },
+    {
+        "id": 15693,
+        "name": "Xã Chiến Thắng"
+    },
+    {
+        "id": 15692,
+        "name": "Xã Bằng Mạc"
+    },
+    {
+        "id": 15691,
+        "name": "Xã Chi Lăng"
+    },
+    {
+        "id": 15690,
+        "name": "Xã Tuấn Sơn"
+    },
+    {
+        "id": 15689,
+        "name": "Xã Tân Thành"
+    },
+    {
+        "id": 15688,
+        "name": "Xã Thiện Tân"
+    },
+    {
+        "id": 15687,
+        "name": "Xã Cai Kinh"
+    },
+    {
+        "id": 15686,
+        "name": "Xã Vân Nham"
+    },
+    {
+        "id": 15685,
+        "name": "Xã Hữu Liên"
+    },
+    {
+        "id": 15684,
+        "name": "Xã Yên Bình"
+    },
+    {
+        "id": 15683,
+        "name": "Xã Hữu Lũng"
+    },
+    {
+        "id": 15682,
+        "name": "Xã Nhất Hòa"
+    },
+    {
+        "id": 15681,
+        "name": "Xã Vũ Lăng"
+    },
+    {
+        "id": 15680,
+        "name": "Xã Vũ Lễ"
+    },
+    {
+        "id": 15679,
+        "name": "Xã Hưng Vũ"
+    },
+    {
+        "id": 15678,
+        "name": "Xã Tân Tri"
+    },
+    {
+        "id": 15677,
+        "name": "Xã Bắc Sơn"
+    },
+    {
+        "id": 15676,
+        "name": "Xã Tân Đoàn"
+    },
+    {
+        "id": 15675,
+        "name": "Xã Tri Lễ"
+    },
+    {
+        "id": 15674,
+        "name": "Xã Yên Phúc"
+    },
+    {
+        "id": 15673,
+        "name": "Xã Khánh Khê"
+    },
+    {
+        "id": 15672,
+        "name": "Xã Điềm He"
+    },
+    {
+        "id": 15671,
+        "name": "Xã Văn Quan"
+    },
+    {
+        "id": 15670,
+        "name": "Xã Công Sơn"
+    },
+    {
+        "id": 15669,
+        "name": "Xã Cao Lộc"
+    },
+    {
+        "id": 15668,
+        "name": "Xã Ba Sơn"
+    },
+    {
+        "id": 15667,
+        "name": "Phường Kỳ Lừa"
+    },
+    {
+        "id": 15666,
+        "name": "Xã Đồng Đăng"
+    },
+    {
+        "id": 15665,
+        "name": "Xã Hoàng Văn Thụ"
+    },
+    {
+        "id": 15664,
+        "name": "Xã Văn Lãng"
+    },
+    {
+        "id": 15663,
+        "name": "Xã Hội Hoan"
+    },
+    {
+        "id": 15662,
+        "name": "Xã Thụy Hùng"
+    },
+    {
+        "id": 15661,
+        "name": "Xã Na Sầm"
+    },
+    {
+        "id": 15660,
+        "name": "Xã Tân Văn"
+    },
+    {
+        "id": 15659,
+        "name": "Xã Bình Gia"
+    },
+    {
+        "id": 15658,
+        "name": "Xã Thiện Long"
+    },
+    {
+        "id": 15657,
+        "name": "Xã Thiện Thuật"
+    },
+    {
+        "id": 15656,
+        "name": "Xã Thiện Hòa"
+    },
+    {
+        "id": 15655,
+        "name": "Xã Hồng Phong"
+    },
+    {
+        "id": 15654,
+        "name": "Xã Quý Hòa"
+    },
+    {
+        "id": 15653,
+        "name": "Xã Hoa Thám"
+    },
+    {
+        "id": 15652,
+        "name": "Xã Quốc Việt"
+    },
+    {
+        "id": 15651,
+        "name": "Xã Tràng Định"
+    },
+    {
+        "id": 15650,
+        "name": "Xã Thất Khê"
+    },
+    {
+        "id": 15649,
+        "name": "Xã Kháng Chiến"
+    },
+    {
+        "id": 15648,
+        "name": "Xã Tân Tiến"
+    },
+    {
+        "id": 15647,
+        "name": "Xã Quốc Khánh"
+    },
+    {
+        "id": 15646,
+        "name": "Xã Đoàn Kết"
+    },
+    {
+        "id": 15645,
+        "name": "Phường Tam Thanh"
+    },
+    {
+        "id": 15644,
+        "name": "Phường Lương Văn Tri"
+    },
+    {
+        "id": 15643,
+        "name": "Phường Đông Kinh"
+    }
+]

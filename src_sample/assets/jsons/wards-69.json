@@ -1,0 +1,302 @@
+[
+    {
+        "id": 15451,
+        "name": "Xã Mường Lạn"
+    },
+    {
+        "id": 15450,
+        "name": "Xã Mường Lèo"
+    },
+    {
+        "id": 15449,
+        "name": "Xã Sốp Cộp"
+    },
+    {
+        "id": 15448,
+        "name": "Xã Púng Bánh"
+    },
+    {
+        "id": 15447,
+        "name": "Xã Chiềng Khương"
+    },
+    {
+        "id": 15446,
+        "name": "Xã Mường Hung"
+    },
+    {
+        "id": 15445,
+        "name": "Xã Huổi Một"
+    },
+    {
+        "id": 15444,
+        "name": "Xã Chiềng Khoong"
+    },
+    {
+        "id": 15443,
+        "name": "Xã Chiềng Sơ"
+    },
+    {
+        "id": 15442,
+        "name": "Xã Nậm Ty"
+    },
+    {
+        "id": 15441,
+        "name": "Xã Mường Lầm"
+    },
+    {
+        "id": 15440,
+        "name": "Xã Bó Sinh"
+    },
+    {
+        "id": 15439,
+        "name": "Xã Sông Mã"
+    },
+    {
+        "id": 15438,
+        "name": "Xã Phiêng Pằn"
+    },
+    {
+        "id": 15437,
+        "name": "Xã Phiêng Cằm"
+    },
+    {
+        "id": 15436,
+        "name": "Xã Tà Hộc"
+    },
+    {
+        "id": 15435,
+        "name": "Xã Chiềng Mai"
+    },
+    {
+        "id": 15434,
+        "name": "Xã Chiềng Mung"
+    },
+    {
+        "id": 15433,
+        "name": "Xã Mường Chanh"
+    },
+    {
+        "id": 15432,
+        "name": "Xã Chiềng Sung"
+    },
+    {
+        "id": 15431,
+        "name": "Xã Mai Sơn"
+    },
+    {
+        "id": 15430,
+        "name": "Xã Phiêng Khoài"
+    },
+    {
+        "id": 15429,
+        "name": "Xã Lóng Phiêng"
+    },
+    {
+        "id": 15428,
+        "name": "Xã Yên Sơn"
+    },
+    {
+        "id": 15427,
+        "name": "Xã Chiềng Hặc"
+    },
+    {
+        "id": 15426,
+        "name": "Xã Yên Châu"
+    },
+    {
+        "id": 15425,
+        "name": "Xã Xuân Nha"
+    },
+    {
+        "id": 15424,
+        "name": "Xã Vân Hồ"
+    },
+    {
+        "id": 15423,
+        "name": "Xã Lóng Sập"
+    },
+    {
+        "id": 15422,
+        "name": "Phường Vân Sơn"
+    },
+    {
+        "id": 15421,
+        "name": "Xã Tô Múa"
+    },
+    {
+        "id": 15420,
+        "name": "Xã Song Khủa"
+    },
+    {
+        "id": 15419,
+        "name": "Xã Đoàn Kết"
+    },
+    {
+        "id": 15418,
+        "name": "Xã Tân Yên"
+    },
+    {
+        "id": 15417,
+        "name": "Xã Chiềng Sơn"
+    },
+    {
+        "id": 15416,
+        "name": "Phường Thảo Nguyên"
+    },
+    {
+        "id": 15415,
+        "name": "Phường Mộc Châu"
+    },
+    {
+        "id": 15414,
+        "name": "Phường Mộc Sơn"
+    },
+    {
+        "id": 15413,
+        "name": "Xã Tân Phong"
+    },
+    {
+        "id": 15412,
+        "name": "Xã Kim Bon"
+    },
+    {
+        "id": 15411,
+        "name": "Xã Tường Hạ"
+    },
+    {
+        "id": 15410,
+        "name": "Xã Mường Bang"
+    },
+    {
+        "id": 15409,
+        "name": "Xã Gia Phù"
+    },
+    {
+        "id": 15408,
+        "name": "Xã Phù Yên"
+    },
+    {
+        "id": 15407,
+        "name": "Xã Mường Cơi"
+    },
+    {
+        "id": 15406,
+        "name": "Xã Suối Tọ"
+    },
+    {
+        "id": 15405,
+        "name": "Xã Chiềng Sại"
+    },
+    {
+        "id": 15404,
+        "name": "Xã Tạ Khoa"
+    },
+    {
+        "id": 15403,
+        "name": "Xã Pắc Ngà"
+    },
+    {
+        "id": 15402,
+        "name": "Xã Tà Xùa"
+    },
+    {
+        "id": 15401,
+        "name": "Xã Xím Vàng"
+    },
+    {
+        "id": 15400,
+        "name": "Xã Bắc Yên"
+    },
+    {
+        "id": 15399,
+        "name": "Xã Chiềng Hoa"
+    },
+    {
+        "id": 15398,
+        "name": "Xã Mường Bú"
+    },
+    {
+        "id": 15397,
+        "name": "Xã Ngọc Chiến"
+    },
+    {
+        "id": 15396,
+        "name": "Xã Chiềng Lao"
+    },
+    {
+        "id": 15395,
+        "name": "Xã Mường La"
+    },
+    {
+        "id": 15394,
+        "name": "Xã Muổi Nọi"
+    },
+    {
+        "id": 15393,
+        "name": "Xã Nậm Lầu"
+    },
+    {
+        "id": 15392,
+        "name": "Xã Co Mạ"
+    },
+    {
+        "id": 15391,
+        "name": "Xã Long Hẹ"
+    },
+    {
+        "id": 15390,
+        "name": "Xã Mường Bám"
+    },
+    {
+        "id": 15389,
+        "name": "Xã Mường Khiêng"
+    },
+    {
+        "id": 15388,
+        "name": "Xã Chiềng La"
+    },
+    {
+        "id": 15387,
+        "name": "Xã Mường É"
+    },
+    {
+        "id": 15386,
+        "name": "Xã Bình Thuận"
+    },
+    {
+        "id": 15385,
+        "name": "Xã Thuận Châu"
+    },
+    {
+        "id": 15384,
+        "name": "Xã Mường Sại"
+    },
+    {
+        "id": 15383,
+        "name": "Xã Quỳnh Nhai"
+    },
+    {
+        "id": 15382,
+        "name": "Xã Mường Giôn"
+    },
+    {
+        "id": 15381,
+        "name": "Xã Mường Chiên"
+    },
+    {
+        "id": 15380,
+        "name": "Phường Chiềng Sinh"
+    },
+    {
+        "id": 15379,
+        "name": "Phường Chiềng Cơi"
+    },
+    {
+        "id": 15378,
+        "name": "Phường Chiềng An"
+    },
+    {
+        "id": 15377,
+        "name": "Phường Tô Hiệu"
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "id": 16122,
+        "name": "Đặc khu Bạch Long Vĩ"
+    },
+    {
+        "id": 16121,
+        "name": "Đặc khu Cát Hải"
+    },
+    {
+        "id": 16120,
+        "name": "Xã Nguyễn Bỉnh Khiêm"
+    },
+    {
+        "id": 16119,
+        "name": "Xã Vĩnh Am"
+    },
+    {
+        "id": 16118,
+        "name": "Xã Vĩnh Hải"
+    },
+    {
+        "id": 16117,
+        "name": "Xã Vĩnh Hòa"
+    },
+    {
+        "id": 16116,
+        "name": "Xã Vĩnh Thuận"
+    },
+    {
+        "id": 16115,
+        "name": "Xã Vĩnh Thịnh"
+    },
+    {
+        "id": 16114,
+        "name": "Xã Vĩnh Bảo"
+    },
+    {
+        "id": 16113,
+        "name": "Xã Hùng Thắng"
+    },
+    {
+        "id": 16112,
+        "name": "Xã Chấn Hưng"
+    },
+    {
+        "id": 16111,
+        "name": "Xã Tiên Minh"
+    },
+    {
+        "id": 16110,
+        "name": "Xã Tân Minh"
+    },
+    {
+        "id": 16109,
+        "name": "Xã Quyết Thắng"
+    },
+    {
+        "id": 16108,
+        "name": "Xã Tiên Lãng"
+    },
+    {
+        "id": 16107,
+        "name": "Xã Kiến Hải"
+    },
+    {
+        "id": 16106,
+        "name": "Phường Nam Đồ Sơn"
+    },
+    {
+        "id": 16105,
+        "name": "Xã Kiến Hưng"
+    },
+    {
+        "id": 16104,
+        "name": "Xã Kiến Minh"
+    },
+    {
+        "id": 16103,
+        "name": "Xã Nghi Dương"
+    },
+    {
+        "id": 16102,
+        "name": "Phường Dương Kinh"
+    },
+    {
+        "id": 16101,
+        "name": "Phường Hưng Đạo"
+    },
+    {
+        "id": 16100,
+        "name": "Xã Kiến Thụy"
+    },
+    {
+        "id": 16099,
+        "name": "Xã An Hưng"
+    },
+    {
+        "id": 16098,
+        "name": "Xã An Khánh"
+    },
+    {
+        "id": 16097,
+        "name": "Xã An Quang"
+    },
+    {
+        "id": 16096,
+        "name": "Xã An Trường"
+    },
+    {
+        "id": 16095,
+        "name": "Xã An Lão"
+    },
+    {
+        "id": 16094,
+        "name": "Phường An Hải"
+    },
+    {
+        "id": 16093,
+        "name": "Phường Hồng An"
+    },
+    {
+        "id": 16092,
+        "name": "Phường An Phong"
+    },
+    {
+        "id": 16091,
+        "name": "Phường An Dương"
+    },
+    {
+        "id": 16090,
+        "name": "Phường Thủy Nguyên"
+    },
+    {
+        "id": 16089,
+        "name": "Phường Thiên Hương"
+    },
+    {
+        "id": 16088,
+        "name": "Phường Nam Triệu"
+    },
+    {
+        "id": 16087,
+        "name": "Phường Hòa Bình"
+    },
+    {
+        "id": 16086,
+        "name": "Phường Lê Ích Mộc"
+    },
+    {
+        "id": 16085,
+        "name": "Xã Việt Khê"
+    },
+    {
+        "id": 16084,
+        "name": "Phường Lưu Kiếm"
+    },
+    {
+        "id": 16083,
+        "name": "Phường Bạch Đằng"
+    },
+    {
+        "id": 16082,
+        "name": "Phường Đồ Sơn"
+    },
+    {
+        "id": 16081,
+        "name": "Phường Phù Liễn"
+    },
+    {
+        "id": 16080,
+        "name": "Phường Kiến An"
+    },
+    {
+        "id": 16079,
+        "name": "Phường Hải An"
+    },
+    {
+        "id": 16078,
+        "name": "Phường Đông Hải"
+    },
+    {
+        "id": 16077,
+        "name": "Phường An Biên"
+    },
+    {
+        "id": 16076,
+        "name": "Phường Lê Chân"
+    },
+    {
+        "id": 16075,
+        "name": "Phường Gia Viên"
+    },
+    {
+        "id": 16074,
+        "name": "Phường Ngô Quyền"
+    },
+    {
+        "id": 16073,
+        "name": "Phường Hồng Bàng"
+    },
+    {
+        "id": 16072,
+        "name": "Xã Nam Thanh Miện"
+    },
+    {
+        "id": 16071,
+        "name": "Xã Hải Hưng"
+    },
+    {
+        "id": 16070,
+        "name": "Xã Bắc Thanh Miện"
+    },
+    {
+        "id": 16069,
+        "name": "Xã Nguyễn Lương Bằng"
+    },
+    {
+        "id": 16068,
+        "name": "Xã Thanh Miện"
+    },
+    {
+        "id": 16067,
+        "name": "Xã Khúc Thừa Dụ"
+    },
+    {
+        "id": 16066,
+        "name": "Xã Hồng Châu"
+    },
+    {
+        "id": 16065,
+        "name": "Xã Ninh Giang"
+    },
+    {
+        "id": 16064,
+        "name": "Xã Tân An"
+    },
+    {
+        "id": 16063,
+        "name": "Xã Vĩnh Lại"
+    },
+    {
+        "id": 16062,
+        "name": "Xã Nguyên Giáp"
+    },
+    {
+        "id": 16061,
+        "name": "Xã Lạc Phượng"
+    },
+    {
+        "id": 16060,
+        "name": "Xã Chí Minh"
+    },
+    {
+        "id": 16059,
+        "name": "Xã Tân Kỳ"
+    },
+    {
+        "id": 16058,
+        "name": "Xã Đại Sơn"
+    },
+    {
+        "id": 16057,
+        "name": "Xã Tứ Kỳ"
+    },
+    {
+        "id": 16056,
+        "name": "Xã Trường Tân"
+    },
+    {
+        "id": 16055,
+        "name": "Xã Gia Phúc"
+    },
+    {
+        "id": 16054,
+        "name": "Xã Yết Kiêu"
+    },
+    {
+        "id": 16053,
+        "name": "Phường Thạch Khôi"
+    },
+    {
+        "id": 16052,
+        "name": "Xã Gia Lộc"
+    },
+    {
+        "id": 16051,
+        "name": "Xã Thượng Hồng"
+    },
+    {
+        "id": 16050,
+        "name": "Xã Đường An"
+    },
+    {
+        "id": 16049,
+        "name": "Xã Bình Giang"
+    },
+    {
+        "id": 16048,
+        "name": "Xã Kẻ Sặt"
+    },
+    {
+        "id": 16047,
+        "name": "Xã Mao Điền"
+    },
+    {
+        "id": 16046,
+        "name": "Xã Tuệ Tĩnh"
+    },
+    {
+        "id": 16045,
+        "name": "Xã Cẩm Giàng"
+    },
+    {
+        "id": 16044,
+        "name": "Phường Tứ Minh"
+    },
+    {
+        "id": 16043,
+        "name": "Xã Cẩm Giang"
+    },
+    {
+        "id": 16042,
+        "name": "Xã Hà Đông"
+    },
+    {
+        "id": 16041,
+        "name": "Xã Hà Tây"
+    },
+    {
+        "id": 16040,
+        "name": "Xã Hà Nam"
+    },
+    {
+        "id": 16039,
+        "name": "Phường Nam Đồng"
+    },
+    {
+        "id": 16038,
+        "name": "Xã Hà Bắc"
+    },
+    {
+        "id": 16037,
+        "name": "Xã Thanh Hà"
+    },
+    {
+        "id": 16036,
+        "name": "Xã Kim Thành"
+    },
+    {
+        "id": 16035,
+        "name": "Xã An Thành"
+    },
+    {
+        "id": 16034,
+        "name": "Xã Lai Khê"
+    },
+    {
+        "id": 16033,
+        "name": "Xã Phú Thái"
+    },
+    {
+        "id": 16032,
+        "name": "Phường Nguyễn Đại Năng"
+    },
+    {
+        "id": 16031,
+        "name": "Phường Trần Liễu"
+    },
+    {
+        "id": 16030,
+        "name": "Phường Phạm Sư Mạnh"
+    },
+    {
+        "id": 16029,
+        "name": "Phường Nhị Chiểu"
+    },
+    {
+        "id": 16028,
+        "name": "Xã Nam An Phụ"
+    },
+    {
+        "id": 16027,
+        "name": "Phường Bắc An Phụ"
+    },
+    {
+        "id": 16026,
+        "name": "Phường Kinh Môn"
+    },
+    {
+        "id": 16025,
+        "name": "Phường Ái Quốc"
+    },
+    {
+        "id": 16024,
+        "name": "Xã An Phú"
+    },
+    {
+        "id": 16023,
+        "name": "Xã Thái Tân"
+    },
+    {
+        "id": 16022,
+        "name": "Xã Trần Phú"
+    },
+    {
+        "id": 16021,
+        "name": "Xã Hợp Tiến"
+    },
+    {
+        "id": 16020,
+        "name": "Xã Nam Sách"
+    },
+    {
+        "id": 16019,
+        "name": "Phường Lê Đại Hành"
+    },
+    {
+        "id": 16018,
+        "name": "Phường Trần Nhân Tông"
+    },
+    {
+        "id": 16017,
+        "name": "Phường Trần Hưng Đạo"
+    },
+    {
+        "id": 16016,
+        "name": "Phường Nguyễn Trãi"
+    },
+    {
+        "id": 16015,
+        "name": "Phường Chu Văn An"
+    },
+    {
+        "id": 16014,
+        "name": "Phường Chí Linh"
+    },
+    {
+        "id": 16013,
+        "name": "Phường Việt Hòa"
+    },
+    {
+        "id": 16012,
+        "name": "Phường Tân Hưng"
+    },
+    {
+        "id": 16011,
+        "name": "Phường Lê Thanh Nghị"
+    },
+    {
+        "id": 16010,
+        "name": "Phường Hải Dương"
+    },
+    {
+        "id": 16009,
+        "name": "Phường Thành Đông"
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "ward_code": "28756",
+        "name": "Phường Phú Khương",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28777",
+        "name": "Phường An Hội",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28783",
+        "name": "Phường Sơn Đông",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28789",
+        "name": "Phường Bến Tre",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28807",
+        "name": "Xã Giao Long",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28810",
+        "name": "Xã Phú Túc",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28840",
+        "name": "Xã Tân Phú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28858",
+        "name": "Phường Phú Tân",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28861",
+        "name": "Xã Tiên Thủy",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28870",
+        "name": "Xã Chợ Lách",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28879",
+        "name": "Xã Phú Phụng",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28894",
+        "name": "Xã Vĩnh Thành",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28901",
+        "name": "Xã Hưng Khánh Trung",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28903",
+        "name": "Xã Mỏ Cày",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28915",
+        "name": "Xã Phước Mỹ Trung",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28921",
+        "name": "Xã Tân Thành Bình",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28945",
+        "name": "Xã Đồng Khởi",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28948",
+        "name": "Xã Nhuận Phú Tân",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28957",
+        "name": "Xã An Định",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28969",
+        "name": "Xã Thành Thới",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28981",
+        "name": "Xã Hương Mỹ",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28984",
+        "name": "Xã Giồng Trôm",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28987",
+        "name": "Xã Lương Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28993",
+        "name": "Xã Lương Phú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "28996",
+        "name": "Xã Châu Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29020",
+        "name": "Xã Phước Long",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29029",
+        "name": "Xã Tân Hào",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29044",
+        "name": "Xã Hưng Nhượng",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29050",
+        "name": "Xã Bình Đại",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29062",
+        "name": "Xã Phú Thuận",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29077",
+        "name": "Xã Lộc Thuận",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29083",
+        "name": "Xã Châu Hưng",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29089",
+        "name": "Xã Thạnh Trị",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29104",
+        "name": "Xã Thạnh Phước",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29107",
+        "name": "Xã Thới Thuận",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29110",
+        "name": "Xã Ba Tri",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29122",
+        "name": "Xã Mỹ Chánh Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29125",
+        "name": "Xã Bảo Thạnh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29137",
+        "name": "Xã Tân Xuân",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29143",
+        "name": "Xã An Ngãi Trung",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29158",
+        "name": "Xã An Hiệp",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29167",
+        "name": "Xã Tân Thủy",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29182",
+        "name": "Xã Thạnh Phú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29191",
+        "name": "Xã Quới Điền",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29194",
+        "name": "Xã Đại Điền",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29221",
+        "name": "Xã Thạnh Hải",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29224",
+        "name": "Xã An Qui",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29227",
+        "name": "Xã Thạnh Phong",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29242",
+        "name": "Phường Trà Vinh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29254",
+        "name": "Phường Nguyệt Hóa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29263",
+        "name": "Phường Long Đức",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29266",
+        "name": "Xã Càng Long",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29275",
+        "name": "Xã An Trường",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29278",
+        "name": "Xã Tân An",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29287",
+        "name": "Xã Bình Phú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29302",
+        "name": "Xã Nhị Long",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29308",
+        "name": "Xã Cầu Kè",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29317",
+        "name": "Xã An Phú Tân",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29329",
+        "name": "Xã Phong Thạnh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29335",
+        "name": "Xã Tam Ngãi",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29341",
+        "name": "Xã Tiểu Cần",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29362",
+        "name": "Xã Hùng Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29365",
+        "name": "Xã Tập Ngãi",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29371",
+        "name": "Xã Tân Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29374",
+        "name": "Xã Châu Thành",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29386",
+        "name": "Xã Song Lộc",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29398",
+        "name": "Phường Hòa Thuận",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29407",
+        "name": "Xã Hưng Mỹ",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29410",
+        "name": "Xã Hòa Minh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29413",
+        "name": "Xã Long Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29416",
+        "name": "Xã Cầu Ngang",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29419",
+        "name": "Xã Mỹ Long",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29431",
+        "name": "Xã Vinh Kim",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29446",
+        "name": "Xã Nhị Trường",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29455",
+        "name": "Xã Hiệp Mỹ",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29461",
+        "name": "Xã Trà Cú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29467",
+        "name": "Xã Tập Sơn",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29476",
+        "name": "Xã Lưu Nghiệp Anh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29489",
+        "name": "Xã Hàm Giang",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29491",
+        "name": "Xã Đại An",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29497",
+        "name": "Xã Đôn Châu",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29506",
+        "name": "Xã Long Hiệp",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29512",
+        "name": "Phường Duyên Hải",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29513",
+        "name": "Xã Long Thành",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29516",
+        "name": "Phường Trường Long Hòa",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29518",
+        "name": "Xã Long Hữu",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29530",
+        "name": "Xã Ngũ Lạc",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29533",
+        "name": "Xã Long Vĩnh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29536",
+        "name": "Xã Đông Hải",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29551",
+        "name": "Phường Long Châu",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29557",
+        "name": "Phường Phước Hậu",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29566",
+        "name": "Phường Tân Ngãi",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29584",
+        "name": "Xã An Bình",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29590",
+        "name": "Phường Thanh Đức",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29593",
+        "name": "Phường Tân Hạnh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29602",
+        "name": "Xã Long Hồ",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29611",
+        "name": "Xã Phú Quới",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29623",
+        "name": "Xã Nhơn Phú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29638",
+        "name": "Xã Bình Phước",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29641",
+        "name": "Xã Cái Nhum",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29653",
+        "name": "Xã Tân Long Hội",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29659",
+        "name": "Xã Trung Thành",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29668",
+        "name": "Xã Quới An",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29677",
+        "name": "Xã Quới Thiện",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29683",
+        "name": "Xã Trung Hiệp",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29698",
+        "name": "Xã Trung Ngãi",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29701",
+        "name": "Xã Hiếu Phụng",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29713",
+        "name": "Xã Hiếu Thành",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29719",
+        "name": "Xã Tam Bình",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29728",
+        "name": "Xã Cái Ngang",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29734",
+        "name": "Xã Hòa Hiệp",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29740",
+        "name": "Xã Song Phú",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29767",
+        "name": "Xã Ngãi Tứ",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29770",
+        "name": "Phường Cái Vồn",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29771",
+        "name": "Phường Bình Minh",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29785",
+        "name": "Xã Tân Lược",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29788",
+        "name": "Xã Mỹ Thuận",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29800",
+        "name": "Xã Tân Quới",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29812",
+        "name": "Phường Đông Thành",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29821",
+        "name": "Xã Trà Ôn",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29830",
+        "name": "Xã Hòa Bình",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29836",
+        "name": "Xã Trà Côn",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29845",
+        "name": "Xã Vĩnh Xuân",
+        "province_code": "86"
+    },
+    {
+        "ward_code": "29857",
+        "name": "Xã Lục Sĩ Thành",
+        "province_code": "86"
+    }
+]

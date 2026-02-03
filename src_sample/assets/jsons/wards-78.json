@@ -1,0 +1,386 @@
+[
+    {
+        "id": 17028,
+        "name": "Xã Ya Ly"
+    },
+    {
+        "id": 17027,
+        "name": "Xã Ia Tơi"
+    },
+    {
+        "id": 17026,
+        "name": "Xã Mô Rai"
+    },
+    {
+        "id": 17025,
+        "name": "Xã Ia Đal"
+    },
+    {
+        "id": 17024,
+        "name": "Xã Sa Bình"
+    },
+    {
+        "id": 17023,
+        "name": "Xã Rờ Kơi"
+    },
+    {
+        "id": 17022,
+        "name": "Xã Sa Thầy"
+    },
+    {
+        "id": 17021,
+        "name": "Xã Ngọk Réo"
+    },
+    {
+        "id": 17020,
+        "name": "Xã Đăk Mar"
+    },
+    {
+        "id": 17019,
+        "name": "Xã Đăk Ui"
+    },
+    {
+        "id": 17018,
+        "name": "Xã Đăk Pxi"
+    },
+    {
+        "id": 17017,
+        "name": "Xã Đăk Hà"
+    },
+    {
+        "id": 17016,
+        "name": "Xã Kon Braih"
+    },
+    {
+        "id": 17015,
+        "name": "Xã Đăk Kôi"
+    },
+    {
+        "id": 17014,
+        "name": "Xã Đăk Rve"
+    },
+    {
+        "id": 17013,
+        "name": "Xã Kon Plông"
+    },
+    {
+        "id": 17012,
+        "name": "Xã Măng Đen"
+    },
+    {
+        "id": 17011,
+        "name": "Xã Măng Bút"
+    },
+    {
+        "id": 17010,
+        "name": "Xã Măng Ri"
+    },
+    {
+        "id": 17009,
+        "name": "Xã Kon Đào"
+    },
+    {
+        "id": 17008,
+        "name": "Xã Ngọk Tụ"
+    },
+    {
+        "id": 17007,
+        "name": "Xã Tu Mơ Rông"
+    },
+    {
+        "id": 17006,
+        "name": "Xã Đăk Tờ Kan"
+    },
+    {
+        "id": 17005,
+        "name": "Xã Đăk Sao"
+    },
+    {
+        "id": 17004,
+        "name": "Xã Đăk Tô"
+    },
+    {
+        "id": 17003,
+        "name": "Xã Sa Loong"
+    },
+    {
+        "id": 17002,
+        "name": "Xã Dục Nông"
+    },
+    {
+        "id": 17001,
+        "name": "Xã Bờ Y"
+    },
+    {
+        "id": 17000,
+        "name": "Xã Đăk Môn"
+    },
+    {
+        "id": 16999,
+        "name": "Xã Đăk Long"
+    },
+    {
+        "id": 16998,
+        "name": "Xã Ngọc Linh"
+    },
+    {
+        "id": 16997,
+        "name": "Xã Xốp"
+    },
+    {
+        "id": 16996,
+        "name": "Xã Đăk Plô"
+    },
+    {
+        "id": 16995,
+        "name": "Xã Đăk Pék"
+    },
+    {
+        "id": 16994,
+        "name": "Xã Đăk Rơ Wa"
+    },
+    {
+        "id": 16993,
+        "name": "Xã Ia Chim"
+    },
+    {
+        "id": 16992,
+        "name": "Xã Ngọk Bay"
+    },
+    {
+        "id": 16991,
+        "name": "Phường Đăk Bla"
+    },
+    {
+        "id": 16990,
+        "name": "Phường Kon Tum"
+    },
+    {
+        "id": 16989,
+        "name": "Phường Đăk Cấm"
+    },
+    {
+        "id": 16988,
+        "name": "Đặc khu Lý Sơn"
+    },
+    {
+        "id": 16987,
+        "name": "Xã Ba Xa"
+    },
+    {
+        "id": 16986,
+        "name": "Xã Ba Vì"
+    },
+    {
+        "id": 16985,
+        "name": "Xã Ba Tô"
+    },
+    {
+        "id": 16984,
+        "name": "Xã Đặng Thùy Trâm"
+    },
+    {
+        "id": 16983,
+        "name": "Xã Ba Dinh"
+    },
+    {
+        "id": 16982,
+        "name": "Xã Ba Động"
+    },
+    {
+        "id": 16981,
+        "name": "Xã Ba Vinh"
+    },
+    {
+        "id": 16980,
+        "name": "Xã Ba Tơ"
+    },
+    {
+        "id": 16979,
+        "name": "Phường Sa Huỳnh"
+    },
+    {
+        "id": 16978,
+        "name": "Xã Khánh Cường"
+    },
+    {
+        "id": 16977,
+        "name": "Xã Nguyễn Nghiêm"
+    },
+    {
+        "id": 16976,
+        "name": "Phường Trà Câu"
+    },
+    {
+        "id": 16975,
+        "name": "Phường Đức Phổ"
+    },
+    {
+        "id": 16974,
+        "name": "Xã Lân Phong"
+    },
+    {
+        "id": 16973,
+        "name": "Xã Mỏ Cày"
+    },
+    {
+        "id": 16972,
+        "name": "Xã Long Phụng"
+    },
+    {
+        "id": 16971,
+        "name": "Xã Mộ Đức"
+    },
+    {
+        "id": 16970,
+        "name": "Xã Thiện Tín"
+    },
+    {
+        "id": 16969,
+        "name": "Xã Đình Cương"
+    },
+    {
+        "id": 16968,
+        "name": "Xã Phước Giang"
+    },
+    {
+        "id": 16967,
+        "name": "Xã Nghĩa Hành"
+    },
+    {
+        "id": 16966,
+        "name": "Xã Minh Long"
+    },
+    {
+        "id": 16965,
+        "name": "Xã Sơn Mai"
+    },
+    {
+        "id": 16964,
+        "name": "Xã Sơn Tây Hạ"
+    },
+    {
+        "id": 16963,
+        "name": "Xã Sơn Tây"
+    },
+    {
+        "id": 16962,
+        "name": "Xã Sơn Tây Thượng"
+    },
+    {
+        "id": 16961,
+        "name": "Xã Sơn Kỳ"
+    },
+    {
+        "id": 16960,
+        "name": "Xã Sơn Thủy"
+    },
+    {
+        "id": 16959,
+        "name": "Xã Sơn Linh"
+    },
+    {
+        "id": 16958,
+        "name": "Xã Sơn Hạ"
+    },
+    {
+        "id": 16957,
+        "name": "Xã Sơn Hà"
+    },
+    {
+        "id": 16956,
+        "name": "Xã Nghĩa Giang"
+    },
+    {
+        "id": 16955,
+        "name": "Xã Trà Giang"
+    },
+    {
+        "id": 16954,
+        "name": "Xã Vệ Giang"
+    },
+    {
+        "id": 16953,
+        "name": "Xã Tư Nghĩa"
+    },
+    {
+        "id": 16952,
+        "name": "Xã Sơn Tịnh"
+    },
+    {
+        "id": 16951,
+        "name": "Xã Tịnh Khê"
+    },
+    {
+        "id": 16950,
+        "name": "Xã Ba Gia"
+    },
+    {
+        "id": 16949,
+        "name": "Xã Trường Giang"
+    },
+    {
+        "id": 16948,
+        "name": "Xã Thọ Phong"
+    },
+    {
+        "id": 16947,
+        "name": "Phường Trương Quang Trọng"
+    },
+    {
+        "id": 16946,
+        "name": "Xã Tây Trà Bồng"
+    },
+    {
+        "id": 16945,
+        "name": "Xã Tây Trà"
+    },
+    {
+        "id": 16944,
+        "name": "Xã Cà Đam"
+    },
+    {
+        "id": 16943,
+        "name": "Xã Đông Trà Bồng"
+    },
+    {
+        "id": 16942,
+        "name": "Xã Thanh Bồng"
+    },
+    {
+        "id": 16941,
+        "name": "Xã Trà Bồng"
+    },
+    {
+        "id": 16940,
+        "name": "Xã Đông Sơn"
+    },
+    {
+        "id": 16939,
+        "name": "Xã Bình Chương"
+    },
+    {
+        "id": 16938,
+        "name": "Xã Bình Minh"
+    },
+    {
+        "id": 16937,
+        "name": "Xã Vạn Tường"
+    },
+    {
+        "id": 16936,
+        "name": "Xã Bình Sơn"
+    },
+    {
+        "id": 16935,
+        "name": "Xã An Phú"
+    },
+    {
+        "id": 16934,
+        "name": "Phường Nghĩa Lộ"
+    },
+    {
+        "id": 16933,
+        "name": "Phường Cẩm Thành"
+    }
+]

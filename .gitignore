@@ -1,0 +1,35 @@
+# Vendor
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/output/*/crawl.log
+/output/*/*.log
+
+# Cache
+/src_sample/caches/
+/src_sample/thumbs/
+/src_sample/logs/
+
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+
+# Output data (keep structure, ignore generated content)
+/output/*/assets/
+/output/*/upload/
+/output/*/sql/
+/output/*/config/

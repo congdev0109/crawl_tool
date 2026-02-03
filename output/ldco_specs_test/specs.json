@@ -1,0 +1,67 @@
+{
+    "home": {
+        "has_detail": false,
+        "thumb_size": "576x430x1",
+        "width": 576,
+        "height": 430,
+        "features": {
+            "seo": false,
+            "schema": false,
+            "slug": false,
+            "view": false,
+            "images": true
+        }
+    },
+    "product": {
+        "has_detail": true,
+        "thumb_size": "480x360x2",
+        "width": 480,
+        "height": 360,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": true,
+            "view": true,
+            "images": true
+        }
+    },
+    "news": {
+        "has_detail": true,
+        "thumb_size": "40x40x3",
+        "width": 40,
+        "height": 40,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": true,
+            "view": true,
+            "images": true
+        }
+    },
+    "service": {
+        "has_detail": true,
+        "thumb_size": "40x40x3",
+        "width": 40,
+        "height": 40,
+        "features": {
+            "seo": true,
+            "schema": true,
+            "slug": true,
+            "view": true,
+            "images": true
+        }
+    },
+    "static": {
+        "has_detail": false,
+        "thumb_size": "40x40x3",
+        "width": 40,
+        "height": 40,
+        "features": {
+            "seo": false,
+            "schema": false,
+            "slug": false,
+            "view": false,
+            "images": true
+        }
+    }
+}
