@@ -29,6 +29,7 @@ Thumbs.db
 node_modules/
 
 # Output data (keep structure, ignore generated content)
+/output/
 /output/*/assets/
 /output/*/upload/
 /output/*/sql/
